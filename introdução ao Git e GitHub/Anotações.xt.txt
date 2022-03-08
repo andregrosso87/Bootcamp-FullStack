@@ -1,2 +1,8 @@
-Link para dowload do git 
-O git Bash é um terminal para otimizar o uso do Git.
+Link para dowload do git https://central.github.com/deployments/desktop/desktop/latest/win32
+O Git Bash é um terminal para otimizar o uso do Git.
+
+Introdução ao Git/GitHub, lecionada polo professor:
+
+LinkedIn: https://linkedin.com/in/falvojr
+GitHub: https://github.com/falvojr
+
