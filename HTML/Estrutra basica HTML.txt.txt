@@ -7,3 +7,23 @@
    <body>
    </boby>
 </html>
+
+Tags
+<h1/> Titulo da Pagina
+<h2/> Titulo da Seção
+<h3/> Titulo do artigo
+<p/> Conteudo do artigo
+
+Links
+<a href/>É o link que a pagina que esta apontando
+<a target/> como o link vai ser aberto
+
+Imagens
+<img>
+<img src="Mostra o caminho da imagem">
+<img alt="Mostra a descrição da foto" 
+
+Listas
+<ul> - Que a ordem dos itens que não são importantes
+<ol> - Que a ordem dos itens são importantes
+<li> item da lista
