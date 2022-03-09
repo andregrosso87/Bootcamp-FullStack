@@ -1,6 +1,7 @@
+
 body {
    
-    background: #78818d;
+    background: #dee2e6;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     max-width: 900px;
     margin: auto;
@@ -11,11 +12,16 @@ body {
     border-radius: 50px;
 }
 
-#title, .subtitle, .post_title {
+#title, .subtitle  {
 
-    color:#505050;
+    color:#212529;
     
 } 
+
+.post_title {
+    
+    color: #343a40;
+}
 
 #title {
     font-size: 40px;
@@ -24,7 +30,7 @@ body {
 
 a {
     text-decoration:line-through;
-    color: #505050;
+    color: #495057;
 }
 
 .post_title {
@@ -37,7 +43,7 @@ a {
 .post {
     background:  #fff;
     padding: 15px ;
-    border: 3px solid #505050;
+    border: 3px solid #343a40;
     margin-bottom: 15px ;
     border-radius: 5px;
 
@@ -48,6 +54,8 @@ a {
     margin-bottom: 15px;
     text-transform: capitalize;
     text-align: justify;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 700;
 
 }
 
