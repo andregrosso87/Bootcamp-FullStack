@@ -1,0 +1,3 @@
+Um ID é representado pelo um #
+
+Uma Class é representado pelo .
