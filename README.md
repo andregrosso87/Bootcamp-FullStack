@@ -1,6 +1,5 @@
 # Desafio de projetos sobre Git/GitHub da Dio
-Repositorio criado para o desafio de projetos
+Repositorio criado para o estudos do Bootcamp Full Stack da Eduzz (DIO)
 
-## Links Úteis
-
-[Sintaxe Básica Markdown] (https://www.markdownguide.org/basic-syntax/)
+link 
+https://web.dio.me/track/eduzz-fullstack-developer-3
