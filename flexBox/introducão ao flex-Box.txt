@@ -1,0 +1,31 @@
+Propriedades do Flex Container
+
+* display - Inicializador do Container;
+* flex-direction - fazer a direção dos itens sendo linha ou coluna;
+* flex-wrap - quebra de linha;
+* flex-flow - abreviação com direction e o wrap;
+* justify-content - alinhar os itens do Container de acordo com a sua direção;
+* align-itens - alinhar os itens de acordo com o eixo do Container;
+* align-content - alinhas as linhas do Container.
+
+Propriedades do Flex item
+
+* flex-grow - Definir o fator de crescimento;
+* flex-basis - Definir o fator inicial do item de acordo com o espaço restante do Container;
+* flex-shrink - Definir a capacidade de redução;
+* flex - Abreviação para as tres propriedade a cima;
+* order - Ordem de distribuição dos Itens;
+* align-self - Alinhamento do item especifico no container.
+
+Flex direction
+
+* Row - alinha os itens nas linhas 
+* colunm - alinha os itens nas colunas
+
+Flex wrap
+
+wrap - quebra de linha, mantem os itens dentrodo meu container e quando ele atingir o maximo de linha ele quebra para a linha de baixo.
+
+
+wrap-reverse - mesmo objetivo, mais faz de baixo para cima.
+
