@@ -1,4 +1,4 @@
-Propriedades do Flex Container
+    Propriedades do Flex Container
 
 * display - Inicializador do Container;
 * flex-direction - fazer a direção dos itens sendo linha ou coluna;
@@ -8,7 +8,7 @@ Propriedades do Flex Container
 * align-itens - alinhar os itens de acordo com o eixo do Container;
 * align-content - alinhas as linhas do Container.
 
-Propriedades do Flex item
+    Propriedades do Flex item
 
 * flex-grow - Definir o fator de crescimento;
 * flex-basis - Definir o fator inicial do item de acordo com o espaço restante do Container;
@@ -17,15 +17,38 @@ Propriedades do Flex item
 * order - Ordem de distribuição dos Itens;
 * align-self - Alinhamento do item especifico no container.
 
-Flex direction
+    Flex direction - Usa o padrão Horizontal - eixo principal que vai decidir os outros comportamentos dos itens
 
 * Row - alinha os itens nas linhas 
 * colunm - alinha os itens nas colunas
 
-Flex wrap
+    Flex wrap - define ou não a quebra de linha.
 
-wrap - quebra de linha, mantem os itens dentrodo meu container e quando ele atingir o maximo de linha ele quebra para a linha de baixo.
+* nowrap - é o padrão, não permite a quebra de linha;
+* wrap - quebra de linha, mantem os itens dentrodo meu container e quando ele atingir o maximo de linha ele quebra para a linha de baixo.
+* wrap-reverse - mesmo objetivo, mais faz de baixo para cima.
 
+    Justify content - é encarregada em alinhar os itens dontro do container de acordo com a direção pretendida e tratar do espaçamento entre eles.
+    obs: No caso em ue os itens estão ocupando 100% do container, não será possivel aplicar essa propriedade.
 
-wrap-reverse - mesmo objetivo, mais faz de baixo para cima.
+* Flex-start - inicio do container;
+* flex-end - final do container;
+* center - ao centro do container;
+* space-between - espaçamentos iguais entre os elementos;
+* space-around - espaçamentos do meio são duas vezes maior que o inicial e o final.
 
+    Align Items - trata do alinhamento de acordo com o eixo do container - o lainhamento é diferente quando os itens estão em colunas e linhas - permite o alinhamento no eixo vertical.
+
+* center - itens ao centro;
+* stretch - padrão - flex crescem igualmente;
+flex-start - inicio;
+flex-end - final;
+baseline - de acordo com a linha da base da tipografia.
+
+Align content
+
+* Flex-start - inicio do container;
+* flex-end - final do container;
+* center - ao centro do container;
+* space-between - espaçamentos iguais entre os elementos;
+* space-around - espaçamentos do meio são duas vezes maior que o inicial e o final
