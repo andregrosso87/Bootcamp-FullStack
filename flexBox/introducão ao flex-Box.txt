@@ -45,7 +45,7 @@ flex-start - inicio;
 flex-end - final;
 baseline - de acordo com a linha da base da tipografia.
 
-Align content
+    Align content - alinhamento das linhas em relação ao eixo vertical- vai precisar que utilize as quebras de linhas(wrap) - e a altura do container tem que ser maior que a soma dos itens.
 
 * Flex-start - inicio do container;
 * flex-end - final do container;
