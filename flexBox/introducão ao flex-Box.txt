@@ -52,3 +52,19 @@ baseline - de acordo com a linha da base da tipografia.
 * center - ao centro do container;
 * space-between - espaçamentos iguais entre os elementos;
 * space-around - espaçamentos do meio são duas vezes maior que o inicial e o final
+
+    Flex Grow - Define a proporcionalidde dos crescimentos dos itens - respeitando o tamanho dos conteudos internos;
+
+    Flex Basis - Estabelece o tamanho inicial do item antes das distribuição dos espaços restante dentro dele, usando como base o conteudo interno disposto.
+
+* auto - será proporcional ao conteudo do item;
+* px, %, em - São valores exatos previamente definidos;
+* 0 - terá relação com o Flex-grow.
+
+    flex-shrink - estabelece a capacidade de redução ou compressão do tamanho de um item.
+
+    flex - atalho ou abreviação para as propriedades: grow, shirink e basis 
+
+    Order - ordenação dos itens
+
+    Align-self - Alinha os itens individualente em nosso container
